@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NY Times</string>
+    <string name="text_no_internet">No Network Connection</string>
+    <string name="text_retry">RETRY</string>
+    <string name="text_failed">Oops! Something went wrong.</string>
+    <string name="text_no_result">Oops! No Articles.</string>
+    <string name="api_key">M6aAGU7k6AQCouBpUjp6AtT9cG2hhR8c</string>
+</resources>
